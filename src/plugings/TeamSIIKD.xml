@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrontCover name="TeamSII口袋直播封面制作" plugings="SIIKDPlugings">
+    <format number="1" backgroundPath="img/SIIKD/1.png" high="350" wide="246">
+        <point x="359" y="179"/>
+    </format>
+    <format number="2" backgroundPath="img/SIIKD/2.png" high="350" wide="246">
+        <point x="199" y="177"/>
+        <point x="516" y="177"/>
+    </format>
+    <format number="3" backgroundPath="img/SIIKD/3.png" high="350" wide="246">
+        <point x="41" y="177"/>
+        <point x="354" y="177"/>
+        <point x="671" y="177"/>
+    </format>
+    <format number="4" backgroundPath="img/SIIKD/4.png" high="368" wide="203">
+        <point x="29" y="167"/>
+        <point x="261" y="167"/>
+        <point x="495" y="167"/>
+        <point x="728" y="167"/>
+    </format>
+    <format number="5" backgroundPath="img/SIIKD/5.png" high="354">
+        <point x="43" y="177" wide="155"/>
+        <point x="208" y="177" wide="180"/>
+        <point x="398" y="177" wide="178"/>
+        <point x="586" y="177" wide="168"/>
+        <point x="764" y="177" wide="155"/>
+    </format>
+</FrontCover>

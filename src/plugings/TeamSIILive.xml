@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrontCover name="TeamSII公演直播封面制作">
+    <format number="3" backgroundPath="img/SIIlive.png" topImagePath="img/SIIlive.png">
+        <point x="31" y="43" high="266" wide="430"/>
+        <point x="545" y="61" high="258" wide="385"/>
+        <point x="34" y="334" high="249" wide="436"/>
+    </format>
+</FrontCover>
